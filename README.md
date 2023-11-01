@@ -59,7 +59,7 @@ Nike Clone is MERN Stack e-commerce web application that allows you to buy shoes
 
 
 
-![cover]()
+![cover](https://github.com/ECommerce-Zone/Nike-Clone/blob/main/Images/nike_UI.png)
 
 <br />
 
